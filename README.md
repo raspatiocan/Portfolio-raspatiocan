@@ -1,4 +1,4 @@
-# Portfolio-raspatiocan
+# Portfolio - Muhammad Fauzan Raspati
 
 
 <h2> Hi 👋</h2>Perkenalkan nama saya **Muhammad Fauzan Raspati**, kalian bisa panggil saya **Fauzan** .
@@ -10,6 +10,7 @@ Sudah 2 tahun lebih saya terjun didunia QA. Merupakan sebuah kesenangan dapat me
 <h2>Experience </h2>
 
 Perjalanan pertama saya sebagai profesional QA dimulai dengan menjadi seorang Tester QA di PT Adidata Informatika dengan penempatan di PT Bank Mandiri Tbk. . Mendapatkan banyak sekali skill set baru baik dari segi tech, softskill, dan juga sisi bisnis. Dengan tanggung jawab utama menjadi QA adalah menjamin produk yang akan dirilis memenuhi kualifikasi dan spesifikasi yang sudah dirancang oleh seluruh tim. Berikut terlampir secara garis besar yang saya lakukan sebagai seorang QA di client tersebut.
+
 - Melakukan testing SIT, UAT, dan Regression selama sprint berjalan.
 - Melakukan testing DB
 - Melakukan testing UI/UX
@@ -17,16 +18,13 @@ Perjalanan pertama saya sebagai profesional QA dimulai dengan menjadi seorang Te
 - Membuat Test Script
 
 Perjalanan kedua saya dengan menjadi seorang UAT Tester di PT HTC Global Services dengan penempatan di United Overseas Bank (UOB). Knowledge dibidang perbankan menjadi lebih luas, karena sebagai UAT Tester disini menuntut untuk lebih berkerja keras untuk memahami proses bisnis lebih dalam. Berikut terlampir jobdesk saya sebagai UAT Tester di UOB.
+
 - Membuat Test Script
 - Melakukan testing Downstream
 - Melakukan testing UI/UX
 - Melakukan testing Functional
 - Melakukan regression testing
 - Melakukan automation testing
-
-
-
-
 
 <h2>Tools</h2>
 
